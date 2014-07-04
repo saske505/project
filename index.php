@@ -4,7 +4,7 @@
 
 </head>
 <?php
-$date = array getdate ([ int $timestamp = time() ] )
+$date = array getdate ([ int $timestamp = time() ] );
 
 
 ?>
